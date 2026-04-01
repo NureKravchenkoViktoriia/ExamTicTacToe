@@ -1,0 +1,14 @@
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\bin\Debug\net8.0\TicTacToeClient.exe
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\bin\Debug\net8.0\TicTacToeClient.deps.json
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\bin\Debug\net8.0\TicTacToeClient.runtimeconfig.json
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\bin\Debug\net8.0\TicTacToeClient.dll
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\bin\Debug\net8.0\TicTacToeClient.pdb
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\obj\Debug\net8.0\TicTacToeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\obj\Debug\net8.0\TicTacToeClient.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\obj\Debug\net8.0\TicTacToeClient.AssemblyInfo.cs
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\obj\Debug\net8.0\TicTacToeClient.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\obj\Debug\net8.0\TicTacToeClient.dll
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\obj\Debug\net8.0\refint\TicTacToeClient.dll
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\obj\Debug\net8.0\TicTacToeClient.pdb
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\obj\Debug\net8.0\TicTacToeClient.genruntimeconfig.cache
+C:\Users\owner\Desktop\хнуре\4 курс\ПвМС\ЕКЗ\TicTacToeClient\TicTacToeClient\obj\Debug\net8.0\ref\TicTacToeClient.dll
